@@ -35,7 +35,7 @@
 
 ## Links
 
-Here is my portfolio : [kumarpriyank.com](https://kumarpriyank.com/).
+Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 
 ## Languages and Tools  
@@ -59,7 +59,7 @@ Here is my portfolio : [kumarpriyank.com](https://kumarpriyank.com/).
 
 ## Executive Summary
 
-* 13+ years industry experience
+* 13+ years of industry experience
 * Hand-on experience in Azure, AWS, Docker, Ansible, Vercel
 * Proficient in C#, Python, JavaScript, Java
 
@@ -73,7 +73,7 @@ Here is my portfolio : [kumarpriyank.com](https://kumarpriyank.com/).
 
 * details on request
 
-#### Cognizant (Asociate - Automation Engineer, 2012 - 2019)
+#### Cognizant (Associate - Automation Engineer, 2012 - 2019)
 
 * details on request
 

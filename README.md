@@ -77,7 +77,7 @@ Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 * details on request
 
-* #### IBM (Technical Support Associate, 2011 - 2012)
+#### IBM (Technical Support Associate, 2011 - 2012)
 
 * details on request
 

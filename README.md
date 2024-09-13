@@ -30,7 +30,7 @@
 - 🤔 I’m looking for help with <b>HTML5, CSS</b>
 - 💬 Ask me about <b>Technology, State of AI, Philosophy, Physics, Astronomy</b>
 - 📫 How to reach me: <b>[Contact](https://kumarpriyank.com/#contact)</b>
-- 😄 Pronouns: <root/user>
+- 😄 Pronouns: <b>root/user</b>
 - ⚡ Fun fact: <b>I Play CS2</b>
 
 ## Links

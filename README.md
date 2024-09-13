@@ -57,6 +57,43 @@ Here is my portfolio : [kumarpriyank.com](https://kumarpriyank.com/).
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 </div>  
 
+## Executive Summary
+
+* 13+ years industry experience
+* Hand-on experience in Azure, AWS, Docker, Ansible, Vercel
+* Proficient in C#, Python, JavaScript, Java
+
+## Working Experience
+
+#### Plymouth Rock Assurance (STG - Application Development, 2024 - present) 
+
+* details on request
+
+#### Advisor360 (DevOps Engineer III, 2019 - 2024) 
+
+* details on request
+
+#### Cognizant (Asociate - Automation Engineer, 2012 - 2019)
+
+* details on request
+
+* #### IBM (Technical Support Associate, 2011 - 2012)
+
+* details on request
+
+## Projects: 
+
+* In Progress...
+
+## Highest Education & Qualifications
+
+* Bachelor of Computer Science (July 2011)
+
+## Misc. Information
+
+* Languages: English (Expert), Hindi (fluent/native)
+* Availability: 1 month's notice
+  
 <!-- ## GitHub Stats  
 <div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 75%;"/></div>
 

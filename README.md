@@ -25,7 +25,7 @@
 
 ## Rapidfire  
 - 🌱 I’m currently learning <b>NextNext.js, React, Streamlit, WebRTC</b>  
-- 🔭 I’m currently working on <b>GenAI, LLM, Langchain, Python, WebRTC, NodeJs, C#, .Net, MVC, API</b>
+- 🔭 I’m currently working on <b>C#, .Net, GenAI, LLM, Langchain, Python, WebRTC, NodeJs, MVC, API</b>
 - 👯 I’m looking to collaborate on <b>Any OpenSource Projects.</b> DM me!
 - 🤔 I’m looking for help with <b>HTML5, CSS</b>
 - 💬 Ask me about <b>Technology, State of AI, Philosophy, Physics, Astronomy</b>

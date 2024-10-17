@@ -63,9 +63,35 @@ Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 * Hand-on experience in Azure, AWS, Docker, Ansible, Vercel
 * Proficient in C#, Python, JavaScript, Java
 
+##Education
+
+2007-2011
+:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
+
 ## Working Experience
 
 #### Plymouth Rock Assurance (STG - Application Development, 2024 - present) 
+
+Experience
+----------
+
+**Your Most Recent Work Experience:**
+
+Short text containing the type of work done, results obtained,
+lessons learned and other remarks. Can also include lists and
+links:
+
+* First item
+
+* Item with [link](http://www.example.com). Links will work both in
+  the html and pdf versions.
+
+**That Other Job You Had**
+
+Also with a short description.
 
 * details on request
 

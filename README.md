@@ -68,9 +68,6 @@ Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 2007-2011
 :   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
 ## Working Experience
 
 #### Company: Plymouth Rock Assurance

@@ -79,8 +79,9 @@ Apr 2024 - Current
 :   **STG - Application Development**; Boston, MA.
 
     *Key Skills: Building Solutions using GenAI- NodeJs, Python, Jenkins, Groovy, React, HTML, CSS, OpenAI, Ollama, RESTfull API, YAML/JSON*
-    - Created graphs, charts and other visualizations to convey results of data analysis using specialized software.
-    - Developed and maintained user-facing data visualization websites and chatbots using Python, Streamlit, Django, HTML, CSS, JavaScript, NodeJs.
+    
+    - Created graphs, charts, and other visualizations to convey the results of data analysis using specialized software.
+    - Developed and maintained user-facing data visualization websites and chatbots using Python, Streamlit, Django, HTML, CSS, JavaScript, and NodeJs.
     - Created interactive dashboards using Streamlit to visualize complex data sets.
     - Reviewed and validated data from multiple sources to ensure accuracy and completeness.
     - Resolved issues with existing databases through troubleshooting, debugging, and problem-solving techniques.
@@ -90,24 +91,47 @@ Apr 2024 - Current
 Aug 2019 - Feb 2024
 :   **DevOps Engineer III**; Weston, MA.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Key Skills: .Net C#, Jenkins, Groovy, AKS, Azure CosmosDB, Azure DevOps Pipelines, Azure LogicApps, MVC, HTML, CSS, Python, Shell/Bash, EntityFramework, Redis, IaS, Docker, Ansible, RESTfull API, YAML/JSON, Razer, SwaggerUI, Svelte*
 
-#### Company: Cognizant
+    - Built and maintained backend database and API using MVC, C#, CosmosDB, Razor, and microservices architecture.
+    - Designed and maintained CI/CD Pipelines as Code using Git, Jenkins, Ansible, AKS, and Ansible.
+    - Configured K8s clusters for deploying containerized applications across multiple nodes.
+    - Managed source code repositories such as GitLab, and GitHub by creating branches, and merging pull requests.
+    - Built in-house ETL Test Framework using SSIS, C#, and EntityFramework
 
-May 2012 - Jul 2019
+#### Company: Cognizant US Corp
+
+Feb 2017 - Jul 2019 
 :   **Associate - QA Automation Lead**; Boston, MA.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Key Skills: Azure Pipeline, ASP.Net C#, Java, Groovy, Jenkins, TeamCity, UFT, Selenium, VBA, Gherkins, API Testing*
+
+   - Designed and maintained CI/CD pipelines using Jenkins.
+   - Developed automated test scripts in Java, Selenium WebDriver, TestNG, and Maven to test web applications.
+   - Designed End-To-End test automation for various clients within the company
+
+#### Company: Cognizant India Pvt. Ltd.
+
+Feb 2017 - Jul 2019 
+:   **Associate - QA Automation Lead**; Kolkata, India.
+
+    *Key Skills: UFT, VBScript, Java, Groovy, Gherkins, BDD, TDD, Functional Automation, Test Design, Agile*
+
+  - Documented all the automation test cases, results, and defects found during execution.
+  - Performed API testing using Postman, SoapUI, and Rest Assured.
+  - Configured Jenkins jobs to run automated regression suites on a nightly basis.
 
 #### Company: IBM
 
-2007-2011
+Jun 2011 – Feb 2012
 :   **Technical Support Associate**; Bangalore, India
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Key Skills: Citrix, IBM WebSphere, Java, Test Design, Agile*
+     
+  - Installed operating systems, applications, security updates, and drivers on user machines.
+  - Responded promptly to emergencies requiring immediate attention such as server outages or data loss incidents.
+  - Resolved hardware and software issues for clients promptly while troubleshooting complex problems.
+  - Utilized remote desktop tools to access customer systems and investigate technical issues.
 
 ## Projects: 
 

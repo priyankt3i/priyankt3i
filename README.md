@@ -73,15 +73,19 @@ Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 ## Working Experience
 
-#### Plymouth Rock Assurance
+#### Company: Plymouth Rock Assurance
 
 Apr 2024 - Current
 :   **STG - Application Development**; Boston, MA.
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+    *Key Skills: Building Solutions using GenAI- NodeJs, Python, Jenkins, Groovy, React, HTML, CSS, OpenAI, Ollama, RESTfull API, YAML/JSON*
+    - Created graphs, charts and other visualizations to convey results of data analysis using specialized software.
+    - Developed and maintained user-facing data visualization websites and chatbots using Python, Streamlit, Django, HTML, CSS, JavaScript, NodeJs.
+    - Created interactive dashboards using Streamlit to visualize complex data sets.
+    - Reviewed and validated data from multiple sources to ensure accuracy and completeness.
+    - Resolved issues with existing databases through troubleshooting, debugging, and problem-solving techniques.
 
-#### Advisor360
+#### Company: Advisor360
 
 Aug 2019 - Feb 2024
 :   **DevOps Engineer III**; Weston, MA.
@@ -89,7 +93,7 @@ Aug 2019 - Feb 2024
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-#### Cognizant
+#### Company: Cognizant
 
 May 2012 - Jul 2019
 :   **Associate - QA Automation Lead**; Boston, MA.
@@ -97,10 +101,10 @@ May 2012 - Jul 2019
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-#### IBM
+#### Company: IBM
 
 2007-2011
-:   **Technical Support Associate**; Bengalore, India
+:   **Technical Support Associate**; Bangalore, India
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*

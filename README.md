@@ -14,6 +14,9 @@
   </a> 
 </p>
   
+## Links
+
+Here is my online portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 ## Glad to see you here!  
 <p style="margin-right: 10px;" >
@@ -26,14 +29,7 @@
   Extensive experience in API development, SQL/NoSQL Database Design, DevOps, Building pipelines, UI/Functional/API automation, and CI/CD to deliver high-quality software products and services to clients in the financial sector.
 </p>
 
-
-
-
-## Links
-
-Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
-
-## Languages and Tools  
+## Skills  
 <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 

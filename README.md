@@ -23,20 +23,9 @@
   I describe myself as a Jack of all trades endeavoring to become a Master of One... and probably this is why I feel more motivated to become a full-stack engineer. More recently, more into AI/ML and developing applications around Artificial Intelligence. I have a Bachelor's degree in Computer Science & Engineering and multiple certifications in software testing, presentation skills, and network security. I have also had an opportunity to author a whitepaper on the current and future trends of DevOps in IT. I am working on my own website as an attempt to learn and implement Front-End design and development, content management, and AI content generation; while doing so, have some fun... My motto in Life: What you cannot measure, you cannot improve.
 </p>
 
-## Rapidfire  
-- 🌱 I’m currently learning <b>NextNext.js, React, Streamlit, WebRTC</b>  
-- 🔭 I’m currently working on <b>C#, .Net, GenAI, LLM, Langchain, Python, WebRTC, NodeJs, MVC, API</b>
-- 👯 I’m looking to collaborate on <b>Any OpenSource Projects.</b> DM me!
-- 🤔 I’m looking for help with <b>HTML5, CSS</b>
-- 💬 Ask me about <b>Technology, State of AI, Philosophy, Physics, Astronomy</b>
-- 📫 How to reach me: <b>[Contact](https://kumarpriyank.com/#contact)</b>
-- 😄 Pronouns: <b>root/user</b>
-- ⚡ Fun fact: <b>I Play CS2</b>
-
 ## Links
 
 Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
-
 
 ## Languages and Tools  
 <div>  
@@ -137,6 +126,16 @@ Jun 2011 – Feb 2012
 ## Highest Education & Qualifications
 
 * Bachelor of Computer Science (July 2011)
+
+## Rapidfire  
+- 🌱 I’m currently learning <b>NextNext.js, React, Streamlit, WebRTC</b>  
+- 🔭 I’m currently working on <b>C#, .Net, GenAI, LLM, Langchain, Python, WebRTC, NodeJs, MVC, API</b>
+- 👯 I’m looking to collaborate on <b>Any OpenSource Projects.</b> DM me!
+- 🤔 I’m looking for help with <b>HTML5, CSS</b>
+- 💬 Ask me about <b>Technology, State of AI, Philosophy, Physics, Astronomy</b>
+- 📫 How to reach me: <b>[Contact](https://kumarpriyank.com/#contact)</b>
+- 😄 Pronouns: <b>root/user</b>
+- ⚡ Fun fact: <b>I Play CS2</b>
 
 ## Misc. Information
 

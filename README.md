@@ -1,5 +1,5 @@
 <p align="left">  
-  <h1 align="left">Welcome!👋, I'm Kumar Priyank</h1>
+  <h1 align="left">Kumar Priyank</h1>
 </p>
 <img align="right" width="400" alt="programmer" src="./public/21004063.jpg">
 <p align="left">  
@@ -16,7 +16,7 @@
   
 ## Links
 
-Here is my online portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
+Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 ## Glad to see you here!  
 <p style="margin-right: 10px;" >

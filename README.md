@@ -106,9 +106,9 @@ Feb 2017 - Jul 2019
 
     *Key Skills: Azure Pipeline, ASP.Net C#, Java, Groovy, Jenkins, TeamCity, UFT, Selenium, VBA, Gherkins, API Testing*
 
-   - Designed and maintained CI/CD pipelines using Jenkins.
-   - Developed automated test scripts in Java, Selenium WebDriver, TestNG, and Maven to test web applications.
-   - Designed End-To-End test automation for various clients within the company
+     - Designed and maintained CI/CD pipelines using Jenkins.
+     - Developed automated test scripts in Java, Selenium WebDriver, TestNG, and Maven to test web applications.
+     - Designed End-To-End test automation for various clients within the company
 
 #### Company: Cognizant India Pvt. Ltd.
 
@@ -117,9 +117,9 @@ Feb 2017 - Jul 2019
 
     *Key Skills: UFT, VBScript, Java, Groovy, Gherkins, BDD, TDD, Functional Automation, Test Design, Agile*
 
-  - Documented all the automation test cases, results, and defects found during execution.
-  - Performed API testing using Postman, SoapUI, and Rest Assured.
-  - Configured Jenkins jobs to run automated regression suites on a nightly basis.
+    - Documented all the automation test cases, results, and defects found during execution.
+    - Performed API testing using Postman, SoapUI, and Rest Assured.
+    - Configured Jenkins jobs to run automated regression suites on a nightly basis.
 
 #### Company: IBM
 
@@ -128,10 +128,10 @@ Jun 2011 – Feb 2012
 
     *Key Skills: Citrix, IBM WebSphere, Java, Test Design, Agile*
      
-  - Installed operating systems, applications, security updates, and drivers on user machines.
-  - Responded promptly to emergencies requiring immediate attention such as server outages or data loss incidents.
-  - Resolved hardware and software issues for clients promptly while troubleshooting complex problems.
-  - Utilized remote desktop tools to access customer systems and investigate technical issues.
+    - Installed operating systems, applications, security updates, and drivers on user machines.
+    - Responded promptly to emergencies requiring immediate attention such as server outages or data loss incidents.
+    - Resolved hardware and software issues for clients promptly while troubleshooting complex problems.
+    - Utilized remote desktop tools to access customer systems and investigate technical issues.
 
 ## Projects: 
 

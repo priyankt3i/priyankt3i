@@ -14,13 +14,13 @@
 
 ## Glad to see you here!  
 <p style="margin-right: 10px;" >
-  I'm a Full-Stack Engineer, which allows me to develop client-facing apps and websites and develop them with cutting-edge backend support.
+  I am a fullstack Engineer with over 13 years of industry experience where I have been involved in various stages of SDLC. From Planning to Design, Development, Testing, and Delivery. I can align, lead, and grow world-class product teams from 10 to 50 people.
 </p>
 <p style="margin-right: 10px;" >
-  Apart from plans to name my kids RAM, JSON, and Daemon; I love contributing to the design, development, testing, and deployment of scalable and reliable cloud-based solutions using Azure Web Services, API development, C#, .Net, Jenkins, Java, and Python. More than a decade's worth of experience in building Web Services / API and backend systems, implementing DevOps, building pipelines, UI/Functional/API automation, and continuous integration to deliver high-quality software products and services to clients in the financial sector.
+  More recently, I was involved in building a GenAI application for business intelligence and data analysis using Generative AI. Building both front-end, middle-ware, and backend for a complete solution. Training, Finetuning, and Prompt Engineering.
 </p>
 <p style="margin-right: 10px;" >
-  I describe myself as a Jack of all trades endeavoring to become a Master of One... and probably this is why I feel more motivated to become a full-stack engineer. More recently, more into AI/ML and developing applications around Artificial Intelligence. I have a Bachelor's degree in Computer Science & Engineering and multiple certifications in software testing, presentation skills, and network security. I have also had an opportunity to author a whitepaper on the current and future trends of DevOps in IT. I am working on my own website as an attempt to learn and implement Front-End design and development, content management, and AI content generation; while doing so, have some fun... My motto in Life: What you cannot measure, you cannot improve.
+  Extensive experience in API development, SQL/NoSQL Database Design, DevOps, Building pipelines, UI/Functional/API automation, and CI/CD to deliver high-quality software products and services to clients in the financial sector.
 </p>
 
 ## Links
@@ -118,14 +118,6 @@ Jun 2011 – Feb 2012
     - Responded promptly to emergencies requiring immediate attention such as server outages or data loss incidents.
     - Resolved hardware and software issues for clients promptly while troubleshooting complex problems.
     - Utilized remote desktop tools to access customer systems and investigate technical issues.
-
-## Projects: 
-
-* In Progress...
-
-## Highest Education & Qualifications
-
-* Bachelor of Computer Science (July 2011)
 
 ## Rapidfire  
 - 🌱 I’m currently learning <b>NextNext.js, React, Streamlit, WebRTC</b>  

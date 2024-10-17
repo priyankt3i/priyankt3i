@@ -63,7 +63,7 @@ Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 * Hand-on experience in Azure, AWS, Docker, Ansible, Vercel
 * Proficient in C#, Python, JavaScript, Java
 
-##Education
+## Education
 
 2007-2011
 :   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
@@ -75,37 +75,35 @@ Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 #### Plymouth Rock Assurance (STG - Application Development, 2024 - present) 
 
-Experience
-----------
+Apr 2024 - Current
+:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
 
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
-
-* details on request
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
 #### Advisor360 (DevOps Engineer III, 2019 - 2024) 
 
-* details on request
+Aug 2019 - Feb 2024
+:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
 #### Cognizant (Associate - Automation Engineer, 2012 - 2019)
 
-* details on request
+May 2012 - Jul 2019
+:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
 #### IBM (Technical Support Associate, 2011 - 2012)
 
-* details on request
+2007-2011
+:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+
+    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
+     Estimation Problem*
 
 ## Projects: 
 

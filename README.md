@@ -121,16 +121,6 @@ Jun 2011 – Feb 2012
     - Resolved hardware and software issues for clients promptly while troubleshooting complex problems.
     - Utilized remote desktop tools to access customer systems and investigate technical issues.
 
-## Rapidfire  
-- 🌱 I’m currently learning <b>NextNext.js, React, Streamlit, WebRTC</b>  
-- 🔭 I’m currently working on <b>C#, .Net, GenAI, LLM, Langchain, Python, WebRTC, NodeJs, MVC, API</b>
-- 👯 I’m looking to collaborate on <b>Any OpenSource Projects.</b> DM me!
-- 🤔 I’m looking for help with <b>HTML5, CSS</b>
-- 💬 Ask me about <b>Technology, State of AI, Philosophy, Physics, Astronomy</b>
-- 📫 How to reach me: <b>[Contact](https://kumarpriyank.com/#contact)</b>
-- 😄 Pronouns: <b>root/user</b>
-- ⚡ Fun fact: <b>I Play CS2</b>
-
 ## Misc. Information
 
 * Languages: English (Expert), Hindi (fluent/native)
@@ -138,7 +128,5 @@ Jun 2011 – Feb 2012
   
 <!-- ## GitHub Stats  
 <div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 75%;"/></div>
-
 <div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshrathore&" alt="ayusshrathore" style="width: 75%;"/></div>
-
 -->

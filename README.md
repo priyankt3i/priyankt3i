@@ -73,34 +73,34 @@ Here is my portfolio : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 ## Working Experience
 
-#### Plymouth Rock Assurance (STG - Application Development, 2024 - present) 
+#### Plymouth Rock Assurance
 
 Apr 2024 - Current
-:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+:   **STG - Application Development**; Boston, MA.
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-#### Advisor360 (DevOps Engineer III, 2019 - 2024) 
+#### Advisor360
 
 Aug 2019 - Feb 2024
-:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+:   **DevOps Engineer III**; Weston, MA.
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-#### Cognizant (Associate - Automation Engineer, 2012 - 2019)
+#### Cognizant
 
 May 2012 - Jul 2019
-:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+:   **Associate - QA Automation Lead**; Boston, MA.
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
-#### IBM (Technical Support Associate, 2011 - 2012)
+#### IBM
 
 2007-2011
-:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+:   **Technical Support Associate**; Bengalore, India
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*

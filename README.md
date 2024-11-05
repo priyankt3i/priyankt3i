@@ -66,12 +66,16 @@ Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 Apr 2024 - Current
 :   **STG - Application Development**; Boston, MA.
 
-    *Key Skills: Building Solutions using GenAI- NodeJs, Python, Jenkins, Groovy, React, HTML, CSS, OpenAI, Ollama, RESTfull API, YAML/JSON*
+    *Key Skills: Building Solutions using GenAI- NodeJs, Python, Java, Jenkins, Groovy, React, HTML, CSS, OpenAI, Ollama, RESTfull API, YAML/JSON*
     
     - Created graphs, charts, and other visualizations to convey the results of data analysis using specialized software.
     - Developed and maintained user-facing data visualization websites and chatbots using Python, Streamlit, Django, HTML, CSS, JavaScript, and NodeJs.
     - Created interactive dashboards using Streamlit to visualize complex data sets.
     - Reviewed and validated data from multiple sources to ensure accuracy and completeness.
+    - Maintained and Enhanced features for existing Python / Flask based portal for Automated Data Validation
+•
+Used Machine Learning algorithms to generate synthetic data for
+staging test environment.
     - Resolved issues with existing databases through troubleshooting, debugging, and problem-solving techniques.
 
 #### Company: Advisor360

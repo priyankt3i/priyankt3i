@@ -72,10 +72,8 @@ Apr 2024 - Current
     - Developed and maintained user-facing data visualization websites and chatbots using Python, Streamlit, Django, HTML, CSS, JavaScript, and NodeJs.
     - Created interactive dashboards using Streamlit to visualize complex data sets.
     - Reviewed and validated data from multiple sources to ensure accuracy and completeness.
-    - Maintained and Enhanced features for existing Python / Flask based portal for Automated Data Validation
-•
-Used Machine Learning algorithms to generate synthetic data for
-staging test environment.
+    - Maintained and Enhanced features for existing Python / Flask-based portal for Automated Data Validation
+    - Used Machine Learning algorithms to generate synthetic data for staging the test environment.
     - Resolved issues with existing databases through troubleshooting, debugging, and problem-solving techniques.
 
 #### Company: Advisor360

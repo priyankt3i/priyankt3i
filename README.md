@@ -128,17 +128,11 @@ Jun 2011 – Feb 2012
 * Languages: English (Expert), Hindi (fluent/native)
 * Availability: 1 month's notice
 
-<iframe src="./README_Hindi.md" width="100%" height="600px"></iframe>
-
+## Thanks for visiting. Meet my pets:
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/priyankt3i"
   width="600"
   height="300"
 />
-  
 </a>
-<!-- ## GitHub Stats  
-<div><img src="https://github-readme-stats.vercel.app/api?username=ayusshrathore&show_icons=true&count_private=true&hide=issues" style="width: 75%;"/></div>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayusshrathore&" alt="ayusshrathore" style="width: 75%;"/></div>
--->

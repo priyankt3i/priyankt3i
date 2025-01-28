@@ -59,7 +59,7 @@ Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 ## Education
 
 2007-2011
-:   **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
+:   :school: **Bachelor of Technology, Computer Science & Engineering**; ICFAI University (Dehradun. India)
 
 ## Working Experience
 

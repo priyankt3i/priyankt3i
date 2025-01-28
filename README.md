@@ -17,6 +17,7 @@
 ## Links
 
 Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
+Bored? : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>
 
 ## Glad to see you here!  
 <p style="margin-right: 10px;" >

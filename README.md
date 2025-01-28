@@ -54,7 +54,7 @@ Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 * **Hand-on Experience** in Azure, AWS, Docker, Vercel, Ansible
 * **Proficient** in C#, c++, Python, Java, SQL
 * **Excellent** in HTML5, CSS, JavaScript
-* **Not too bad** <blink> in NodeJs, React, TailwindCSS, Vite, K8s
+* **Not too bad** :smirk: in NodeJs, React, TailwindCSS, Vite, K8s
 
 ## Education
 

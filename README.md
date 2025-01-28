@@ -50,9 +50,11 @@ Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 ## Executive Summary
 
-* 13+ years of industry experience
-* Hand-on experience in Azure, AWS, Docker, Ansible, Vercel
-* Proficient in C#, Python, JavaScript, Java
+* **13+ years** of industry experience
+* **Hand-on Experience** in Azure, AWS, Docker, Vercel, Ansible
+* **Proficient** in C#, c++, Python, Java, SQL
+* **Excellent** in HTML5, CSS, JavaScript
+* **Not too bad** <blink> in NodeJs, React, TailwindCSS, Vite, K8s
 
 ## Education
 

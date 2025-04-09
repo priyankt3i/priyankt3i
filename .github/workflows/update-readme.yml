@@ -24,14 +24,27 @@ jobs:
 
           sed -i "s/{{experience_years}}/${YEARS} years/g" README.md
 
+      - name: Check if there are any changes
+        id: changes
+        run: |
+          git diff
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes to commit."
+            echo "skip=true" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected."
+            echo "skip=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Commit and push
+        if: steps.changes.outputs.skip == 'false'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
+          git checkout ${{ github.ref_name }}
           git add README.md
           git commit -m "Update experience years"
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+          git push
 

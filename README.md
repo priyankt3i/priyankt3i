@@ -24,7 +24,7 @@ Check this app I built, 30% Vibe coding : <b>[ai-test-case-generator.com](https:
 
 ## Glad to see you here!  
 <p style="margin-right: 10px;" >
-  I am a fullstack Engineer with over {{experience_years}} of industry experience where I have been involved in various stages of SDLC. From Planning to Design, Development, Testing, and Delivery. I can align, lead, and grow world-class product teams from 10 to 50 people.
+  I am a fullstack Engineer with over 13 years of industry experience where I have been involved in various stages of SDLC. From Planning to Design, Development, Testing, and Delivery. I can align, lead, and grow world-class product teams from 10 to 50 people.
 </p>
 <p style="margin-right: 10px;" >
   More recently, I was involved in building a GenAI application for business intelligence and data analysis using Generative AI. Building both front-end, middle-ware, and backend for a complete solution. Training, Finetuning, and Prompt Engineering.

@@ -54,7 +54,7 @@ Check this app I built, 30% Vibe coding : <b>[ai-test-case-generator.com](https:
 
 ## Executive Summary
 
- * :+1: **13+ years** of Industry Experience
+ * :+1: **{{experience_years}}** of Industry Experience
  * :+1: **Hand-on Experience** in Azure, AWS, Docker, Vercel, Ansible
  * :+1: **Proficient** in C#, C++, Python, Java, SQL, C
  * :+1: **Excellent** in HTML5, CSS, JavaScript, TypeScript, Shell, Bash

@@ -13,7 +13,21 @@
   <img src=https://img.shields.io/badge/github-%231E77B5.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a> 
 </p>
-  
+
+<script type="text/javascript">
+    $(document).ready(function()
+    {
+        $('#dob').change(function()
+        {
+            console.log("change");
+            var dob = new Date(document.getElementById('dob').value);
+            var today = new Date();
+            var age = Math.floor((today-dob)/(365.25*24*60*60*1000));
+            document.getElementById('age').value = age;
+        });
+    });
+</script>
+
 ## Links
 
 Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
@@ -25,7 +39,7 @@ Check this app I built, 30% Vibe coding : <b>[ai-test-case-generator.com](https:
 ## Glad to see you here!  
 <p style="margin-right: 10px;" >
   I am a fullstack Engineer with over <div class="input-field col  s12">
-   <label for="age_label">age</label></br>
+   <label for="age_label"></label></br>
    <input type="text" name="age" id="age" readonly/>
 </div> of industry experience where I have been involved in various stages of SDLC. From Planning to Design, Development, Testing, and Delivery. I can align, lead, and grow world-class product teams from 10 to 50 people.
 </p>

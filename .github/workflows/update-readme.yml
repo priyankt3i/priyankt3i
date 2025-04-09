@@ -1,0 +1,32 @@
+name: Update Experience Years
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # every Monday
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Update experience years
+        run: |
+          START_DATE="2011-06-01"
+          CURRENT_DATE=$(date +%Y-%m-%d)
+
+          YEARS=$(($(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s)))
+          YEARS=$(echo "$YEARS / 31556952" | bc)
+
+          echo "Calculated years: $YEARS"
+
+          sed -i "s/{{experience_years}}/${YEARS} years/g" README.md
+
+      - name: Commit and push
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git commit -am "Update experience years to ${YEARS}"
+          git push

@@ -18,7 +18,9 @@
 
 Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
-Bored? : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>
+Bored? : <b>[BotFactory.com](https://botfactory.kumarpriyank.com/)</b>
+
+Evie (Experimental) : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>
 
 Check this app I built, 30% Vibe coding : <b>[ai-test-case-generator.com](https://priyankt3i-ai-test-case-generator-main-app-v2-bbhkjs.streamlit.app/)</b> 
 

@@ -22,6 +22,10 @@ Bored? : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>
 
 Evie (Experimental) : <b>[BotFactory.com](https://botfactory.kumarpriyank.com/)</b>
 
+Zen Notes (In Progress) : <b>[Zen-Notes.com](https://zen-notes.kumarpriyank.com/)</b>
+
+MetaFlux (In Progress) : <b>[MetaFlux.com](https://metaflux.kumarpriyank.com/)</b>
+
 Check this app I built, 30% Vibe coding : <b>[ai-test-case-generator.com](https://priyankt3i-ai-test-case-generator-main-app-v2-bbhkjs.streamlit.app/)</b> 
 
 ## Glad to see you here!  

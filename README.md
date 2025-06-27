@@ -20,11 +20,13 @@ Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 Bored? : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>
 
-Evie (Experimental) : <b>[BotFactory.com](https://botfactory.kumarpriyank.com/)</b>
+Evie [Voice Chat with Personality] (Experimental) : <b>[BotFactory.com](https://botfactory.kumarpriyank.com/)</b>
 
-Zen Notes (In Progress) : <b>[Zen-Notes.com](https://zen-notes.kumarpriyank.com/)</b>
+Zen Notes [A Zettelkasten note taking app - Second Brain] (In Progress...) : <b>[Zen-Notes.com](https://zen-notes.kumarpriyank.com/)</b> [ Need Help with Project ]
 
-MetaFlux (In Progress) : <b>[MetaFlux.com](https://metaflux.kumarpriyank.com/)</b>
+MetaFlux [An AI Diet & Exercise Planner] (In Progress...) : <b>[MetaFlux.com](https://metaflux.kumarpriyank.com/)</b> [ Need Help with Project ]
+
+WarSim [An AI GeoPolitical War Simulator] (In Progress...) : <b>[WarSim.com](https://warsim.kumarpriyank.com/)</b>
 
 Check this app I built, 30% Vibe coding : <b>[ai-test-case-generator.com](https://priyankt3i-ai-test-case-generator-main-app-v2-bbhkjs.streamlit.app/)</b> 
 

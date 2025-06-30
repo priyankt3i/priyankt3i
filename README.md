@@ -24,6 +24,8 @@ Evie [Voice Chat with Personality] (Experimental) : <b>[BotFactory.com](https://
 
 Zen Notes [A Zettelkasten note taking app - Second Brain] (In Progress...) : <b>[Zen-Notes.com](https://zen-notes.kumarpriyank.com/)</b> [ Need Help with Project ]
 
+AisleOne [A Shopping List App] (In Progress...) : <b>[AisleOne.com](https://AisleOne.kumarpriyank.com/)</b>
+
 MetaFlux [An AI Diet & Exercise Planner] (In Progress...) : <b>[MetaFlux.com](https://metaflux.kumarpriyank.com/)</b> [ Need Help with Project ]
 
 WarSim [An AI GeoPolitical War Simulator] (In Progress...) : <b>[WarSim.com](https://warsim.kumarpriyank.com/)</b>

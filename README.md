@@ -14,9 +14,9 @@
   </a> 
 </p>
 
-## Links
+## Portfolio Website
 
-Portfolio website : <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
+ <b>[kumarpriyank.com](https://kumarpriyank.com/)</b>
 
 ## Pet Projects
 Bored? : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>

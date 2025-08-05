@@ -1,7 +1,7 @@
 <p align="left">  
   <h1 align="left">Kumar Priyank</h1>
 </p>
-<img align="right" width="400" alt="programmer" src="./public/21004063.jpg">
+<img align="right" width="400" alt="programmer" src="./public/bmc_qr.png">
 <p align="left">  
   <a href="https://x.com/Priyank_T3i" target="_blank">
   <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />

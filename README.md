@@ -33,6 +33,7 @@ WarSim [An AI GeoPolitical War Simulator] (In Progress...) : <b>[WarSim.com](htt
 
 Check this app I built, 30% Vibe coding : <b>[ai-test-case-generator.com](https://priyankt3i-ai-test-case-generator-main-app-v2-bbhkjs.streamlit.app/)</b> 
 
+To Support my projects : [Buy Me a Coffee](https://buymeacoffee.com/priyankt3i)
 ## Glad to see you here!  
 <p style="margin-right: 10px;" >
   I am a fullstack Engineer with over 13 years of industry experience where I have been involved in various stages of SDLC. From Planning to Design, Development, Testing, and Delivery. I can align, lead, and grow world-class product teams from 10 to 50 people.

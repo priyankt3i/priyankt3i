@@ -1,5 +1,5 @@
 <p align="left">  
-  <h1 align="left">Kumar Priyank | कुमार प्रियंक | Кумар Приянк | 库马尔 普里扬克</h1>
+  <h1 align="left">Kumar Priyank 
 </p>
 <img align="right" width="400" alt="programmer" src="./public/bmc_qr.png">
 <p align="left">  

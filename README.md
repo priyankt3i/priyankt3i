@@ -17,7 +17,9 @@
 ## Ongoing Personal Projects
 Bored? : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>
 
-1500+ Downloads [Marketplace.visualstudio.com] : <b>[TestNG Runner VSCode Extention](https://marketplace.visualstudio.com/items?itemName=KumarPriyank.testng-runner-vscode)</b>
+1500+ Downloads [@ Marketplace.visualstudio.com] : <b>[TestNG Runner VSCode Extention](https://marketplace.visualstudio.com/items?itemName=KumarPriyank.testng-runner-vscode)</b>
+
+Just Released: [@ Chrome Extention Store] : <b>[SmartPath XPath Generator]](https://priyankt3i.github.io/smartpath/smart-path/docs/privacy-policy.html)</b>
 
 To Support my projects : [Buy Me a Coffee](https://buymeacoffee.com/priyankt3i)
 

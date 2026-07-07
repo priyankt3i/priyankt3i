@@ -17,7 +17,7 @@
 ## Ongoing Personal Projects
 Bored? : <b>[UselessFacts.com](https://42-ruby.vercel.app)</b>
 
-1000+ Downloads [Marketplace.visualstudio.com] (Experimental) : <b>[TestNG Runner VSCode Extention](https://marketplace.visualstudio.com/items?itemName=KumarPriyank.testng-runner-vscode)</b>
+1500+ Downloads [Marketplace.visualstudio.com] : <b>[TestNG Runner VSCode Extention](https://marketplace.visualstudio.com/items?itemName=KumarPriyank.testng-runner-vscode)</b>
 
 To Support my projects : [Buy Me a Coffee](https://buymeacoffee.com/priyankt3i)
 
